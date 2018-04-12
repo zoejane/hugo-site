@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DUW</title>
+    <link>http://hugo-site.zoejane.net/post/</link>
+    <description>Recent content in Posts on DUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Apr 2018 15:52:22 +0800</lastBuildDate>
+    
+	<atom:link href="http://hugo-site.zoejane.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>http://hugo-site.zoejane.net/post/hello/</link>
+      <pubDate>Thu, 12 Apr 2018 15:52:22 +0800</pubDate>
+      
+      <guid>http://hugo-site.zoejane.net/post/hello/</guid>
+      <description>Welcome to the new world.</description>
+    </item>
+    
+    <item>
+      <title>Another</title>
+      <link>http://hugo-site.zoejane.net/post/another/</link>
+      <pubDate>Thu, 12 Apr 2018 14:57:24 +0800</pubDate>
+      
+      <guid>http://hugo-site.zoejane.net/post/another/</guid>
+      <description>Another post.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://hugo-site.zoejane.net/post/my-first-post/</link>
+      <pubDate>Thu, 12 Apr 2018 14:42:23 +0800</pubDate>
+      
+      <guid>http://hugo-site.zoejane.net/post/my-first-post/</guid>
+      <description>Hello, world!</description>
+    </item>
+    
+  </channel>
+</rss>
