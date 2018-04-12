@@ -16,7 +16,7 @@ deploy:
   # token is set in travis-ci.org dashboard
   github_token: $GITHUB_API_KEY
   on:
-    branch: master
+    branch: gh-pages
   local_dir: public
   repo: zoejane/hugo-site
   target_branch: master
