@@ -11,6 +11,7 @@ script:
   - hugo
 
 deploy:
+  echo 'hugo-site.zoejane.net' > ./dist/CNAME
   provider: pages
   skip_cleanup: true
   # token is set in travis-ci.org dashboard
